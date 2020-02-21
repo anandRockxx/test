@@ -25,7 +25,7 @@ SECRET_KEY = 'g2r^8gm$#07f+snjd!e!!0+t%8bug!=&%rjyewt(+1e!)yxhq6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['minsttr.com']
 
 
 # Application definition
